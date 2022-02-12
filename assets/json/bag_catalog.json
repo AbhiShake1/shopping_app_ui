@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Office Code",
+    "price": 234,
+    "size": 12,
+    "description": "Dummy Desc",
+    "imageUrl": "https://github.com/abuanwar072/E-commerce-App-UI-Flutter/blob/master/assets/images/bag_1.png?raw=true",
+    "colorHex": "ff3d82ae"
+  },
+  {
+    "id": 2,
+    "title": "Belt Bag",
+    "price": 234,
+    "size": 8,
+    "description": "Dummy Desc",
+    "imageUrl": "https://github.com/abuanwar072/E-commerce-App-UI-Flutter/blob/master/assets/images/bag_2.png?raw=true",
+    "colorHex": "FFD3A984"
+  },
+  {
+    "id": 3,
+    "title": "Hang Top",
+    "price": 234,
+    "size": 10,
+    "description": "Dummy Desc",
+    "imageUrl": "https://github.com/abuanwar072/E-commerce-App-UI-Flutter/blob/master/assets/images/bag_3.png?raw=true",
+    "colorHex": "FF989493"
+  },
+  {
+    "id": 4,
+    "title": "Old Fashion",
+    "price": 234,
+    "size": 11,
+    "description": "Dummy Desc",
+    "imageUrl": "https://github.com/abuanwar072/E-commerce-App-UI-Flutter/blob/master/assets/images/bag_4.png?raw=true",
+    "colorHex": "FFE6B398"
+  },
+  {
+    "id": 5,
+    "title": "Office Code",
+    "price": 234,
+    "size": 12,
+    "description": "Dummy Desc",
+    "imageUrl": "",
+    "colorHex": "FFFB7883"
+  },
+  {
+    "id": 6,
+    "title": "Office Code",
+    "price": 234,
+    "size": 12,
+    "description": "Dummy Desc",
+    "imageUrl": "https://github.com/abuanwar072/E-commerce-App-UI-Flutter/blob/master/assets/images/bag_6.png?raw=true",
+    "colorHex": "FFAEAEAE"
+  }
+]
