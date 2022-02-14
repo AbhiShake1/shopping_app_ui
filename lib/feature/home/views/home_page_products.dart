@@ -20,8 +20,7 @@ class _HomePageProducts extends ConsumerWidget {
               itemBuilder: (context, index) => ItemCard(
                 product: catalog[index],
                 onPress: () => context.push(
-                  (context) => ProductDetailsScreen(product: catalog[index]),
-                ),
+                    (context) => ProductDetailsScreen(product: catalog[index])),
               ),
             ).pSymmetric(v: 20, h: 20),
             orElse: () => const MainLoading(),

@@ -46,7 +46,7 @@ class _HomePageCategory extends HookWidget {
                       height: 2,
                       width: animation.value,
                       color: index == currentIndex
-                          ? context.textTheme.headline5!.color!
+                          ? context.textTheme.bodyLarge?.color
                           : Colors.transparent,
                     ),
                     animation: animation,

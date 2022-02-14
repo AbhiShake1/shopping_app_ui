@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:shopping_app_ui/providers/brightness_provider.dart';
+import 'package:shopping_app_ui/core/providers/brightness_provider.dart';
 
 import 'feature/home/views/home_page.dart';
 
